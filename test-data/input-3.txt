@@ -1,0 +1,10 @@
+# Topredo tubes can fire at once even then the other if empty
+GT4500,2,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
+# Other way around
+GT4500,1,0,2,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
