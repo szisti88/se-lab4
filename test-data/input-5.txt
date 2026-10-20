@@ -1,0 +1,9 @@
+# Testing CommandLineInterface cuz i can
+
+asd
+TORPEDO,SINGLE
+GT4500,1,1,1,1
+TORPEDO
+GT4500
+GT4500,a,s,d,f
+EXIT
