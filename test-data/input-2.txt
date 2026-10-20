@@ -1,0 +1,11 @@
+# Torpedo tubes can fire again if others are empty
+# Primary tube
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+# Secondary tube
+GT4500,0,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

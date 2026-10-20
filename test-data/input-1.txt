@@ -1,0 +1,5 @@
+# Topredo tubes can fail
+GT4500,1,1,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL
